@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/URLShortner/.vs/URLShortner
+/URLShortner/URLShortnerAPI/bin/Debug/net7.0
+/URLShortner/URLShortnerAPI/obj
+/URLShortner/URLShortnerAPI/URLShortnerAPI.csproj.user
+/URLShortner/URLShortnerDBManager/obj
